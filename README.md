@@ -13,7 +13,7 @@ https://www.codewars.com/users/sigod
 | 3 kyu | 1 | 3 | 91 |
 | 2 kyu | 0 | 1 | 65 |
 | 1 kyu | 0 | 2 | 32 |
-| Total | 131 | 233 | 6250 |
+| **Total** | **131** | **233** | **6250** |
 
 # TODO: Solutions that are done in other languages
 

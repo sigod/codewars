@@ -1,18 +1,16 @@
-use std::collections::HashMap;
+use std::collections::HashSet;
 
 fn sum_pairs(ints: &[i8], s: i8) -> Option<(i8, i8)> {
-	let mut values = HashMap::new();
+	let mut values = HashSet::new();
 
-	for (i, &value) in ints.iter().enumerate() {
-		let a = s - value;
+	for &b in ints.iter() {
+		let a = s - b;
 
-		if values.contains_key(&a) {
-			return Some((a, value));
+		if values.contains(&a) {
+			return Some((a, b));
 		}
 
-		if !values.contains_key(&value) {
-			values.insert(value, i);
-		}
+		values.insert(b);
 	}
 
 	None
