@@ -8,7 +8,7 @@ https://www.codewars.com/users/sigod
 | 8 kyu | 37 | 37 | 464 |
 | 7 kyu | 58 | 58 | 2133 |
 | 6 kyu | 24 | 83 | 2257 |
-| 5 kyu | 5 | 35 | 904 |
+| 5 kyu | 6 | 35 | 904 |
 | 4 kyu | 4 | 14 | 304 |
 | 3 kyu | 1 | 3 | 91 |
 | 2 kyu | 0 | 1 | 65 |
@@ -17,16 +17,16 @@ https://www.codewars.com/users/sigod
 # TODO: Solutions that are done in other languages
 
 ## 6 kyu
-https://www.codewars.com/kata/up-and-down/train/rust
-https://www.codewars.com/kata/salesmans-travel/train/rust
-https://www.codewars.com/kata/are-they-the-same/train/rust
-https://www.codewars.com/kata/consecutive-strings/train/rust
+https://www.codewars.com/kata/up-and-down/train/rust  
+https://www.codewars.com/kata/salesmans-travel/train/rust  
+https://www.codewars.com/kata/are-they-the-same/train/rust  
+https://www.codewars.com/kata/consecutive-strings/train/rust  
 
 ## 5 kyu
-https://www.codewars.com/kata/diophantine-equation/train/rust
-https://www.codewars.com/kata/primes-in-numbers/train/rust
-https://www.codewars.com/kata/gap-in-primes/train/rust
-https://www.codewars.com/kata/weight-for-weight/train/rust
+https://www.codewars.com/kata/diophantine-equation/train/rust  
+https://www.codewars.com/kata/primes-in-numbers/train/rust  
+https://www.codewars.com/kata/gap-in-primes/train/rust  
+https://www.codewars.com/kata/weight-for-weight/train/rust  
 
 ## 4 kyu
-https://www.codewars.com/kata/strings-mix/train/rust
+https://www.codewars.com/kata/strings-mix/train/rust  
