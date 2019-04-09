@@ -7,18 +7,17 @@
 | :--- | :--- | :--- | :--- |
 | 8 kyu | 37 | 37 | 464 |
 | 7 kyu | 58 | 58 | 2133 |
-| 6 kyu | 25 | 83 | 2257 |
+| 6 kyu | 26 | 83 | 2257 |
 | 5 kyu | 9 | 35 | 904 |
 | 4 kyu | 4 | 14 | 304 |
 | 3 kyu | 1 | 3 | 91 |
 | 2 kyu | 0 | 1 | 65 |
 | 1 kyu | 0 | 2 | 32 |
-| **Total** | **134** | **233** | **6250** |
+| **Total** | **135** | **233** | **6250** |
 
 # TODO: Solutions that are done in other languages
 
 ## 6 kyu
-https://www.codewars.com/kata/up-and-down/train/rust  
 https://www.codewars.com/kata/salesmans-travel/train/rust  
 https://www.codewars.com/kata/are-they-the-same/train/rust  
 https://www.codewars.com/kata/consecutive-strings/train/rust  
