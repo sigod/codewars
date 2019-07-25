@@ -12,8 +12,8 @@
 | 4 kyu | 4 | 17 | 311 |
 | 3 kyu | 1 | 3 | 94 |
 | 2 kyu | 0 | 2 | 70 |
-| 1 kyu | 0 | 2 | 34 |
-| **Total** | **153** | **255** | **6327** |
+| 1 kyu | 1 | 2 | 34 |
+| **Total** | **154** | **255** | **6327** |
 
 # TODO: Solutions that are done in other languages
 
