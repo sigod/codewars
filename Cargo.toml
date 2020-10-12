@@ -1,5 +1,6 @@
 [workspace]
 members = [
 	"src/6-kyu/counting-ascii-art-squares",
+	"src/8-kyu/generate-range-of-integers",
 	"src/helpers"
 ]

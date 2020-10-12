@@ -5,7 +5,7 @@
 
 | Difficulty | Solved in Rust | Available in Rust | Total Available |
 | :--- | :--- | :--- | :--- |
-| 8 kyu | 43 | 67 | 471 |
+| 8 kyu | 44 | 67 | 471 |
 | 7 kyu | 65 | 102 | 2273 |
 | 6 kyu | 32 | 123 | 2464 |
 | 5 kyu | 9 | 50 | 1020 |
@@ -13,7 +13,7 @@
 | 3 kyu | 1 | 6 | 99 |
 | 2 kyu | 0 | 3 | 65 |
 | 1 kyu | 1 | 3 | 40 |
-| **Total** | **155** | **374** | **6788** |
+| **Total** | **156** | **374** | **6788** |
 
 # TODO: Solutions that are done in other languages
 
